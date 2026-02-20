@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm Faizan Sheikh
  Computer Science undergraduate with a strong interest in data analytics and business intelligence. Skilled in Python, SQL, and Power BI to transform raw data into actionable insights through real-world projects.
 
 
